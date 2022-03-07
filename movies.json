@@ -1,0 +1,167 @@
+[
+    {
+        "title": "The Nun",
+        "year": 2017,
+        "cast": [
+            "Demián Bichir",
+            "Taissa Farmiga",
+            "Jonas Bloquet",
+            "Charlotte Hope",
+            "Ingrid Bisu",
+            "Bonnie Aarons",
+        ],
+        "genres": ["Horror"],
+    },
+    {
+        "title": "Peppermint",
+        "year": 2017,
+        "cast": [
+            "Jennifer Garner",
+            "John Ortiz",
+            "Juan Pablo Raba",
+            "John Gallagher Jr.",
+            "Annie Ilonzeh",
+            "Richard Cabral",
+        ],
+        "genres": ["Action", "Thriller"],
+    },
+    {
+        "title": "The Predator",
+        "year": 2017,
+        "cast": [
+            "Boyd Holbrook",
+            "Trevante Rhodes",
+            "Jacob Tremblay",
+            "Keegan-Michael Key",
+            "Olivia Munn",
+            "Thomas Jane",
+            "Alfie Allen",
+            "Sterling K. Brown",
+            "Augusto Aguilera",
+            "Yvonne Strahovski",
+            "Jake Busey",
+        ],
+        "genres": ["Horror", "Action", "Science Fiction"],
+    },
+    {
+        "title": "White Boy Rick",
+        "year": 2017,
+        "cast": [
+            "Matthew McConaughey",
+            "Richie Merritt",
+            "Bel Powley",
+            "Jennifer Jason Leigh",
+            "Brian Tyree Henry",
+            "Rory Cochrane",
+            "RJ Cyler",
+            "Jonathan Majors",
+            "Eddie Marsan",
+            "Bruce Dern",
+            "Piper Laurie",
+        ],
+        "genres": ["Crime", "Drama"],
+    },
+    {
+    "title": "Aquaman",
+    "year": 2018,
+    "cast": [
+      "Jason Momoa",
+      "Amber Heard",
+      "Willem Dafoe",
+      "Patrick Wilson",
+      "Dolph Lundgren",
+      "Yahya Abdul-Mateen II",
+      "Nicole Kidman"
+    ],
+    "genres": [
+      "Superhero",
+      "Action",
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Bumblebee",
+    "year": 2018,
+    "cast": [
+      "Hailee Steinfeld",
+      "John Cena",
+      "Jorge Lendeborg Jr.",
+      "Jason Drucker",
+      "Rachel Crow",
+      "Pamela Adlon"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  {
+    "title": "Welcome to Marwen",
+    "year": 2018,
+    "cast": [
+      "Steve Carell",
+      "Leslie Mann",
+      "Diane Kruger",
+      "Falk Hentschel",
+      "Janelle Monáe",
+      "Eiza Gonzalez",
+      "Gwendoline Christie"
+    ],
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
+  },
+  {
+    "title": "Holmes and Watson",
+    "year": 2018,
+    "cast": [
+      "Will Ferrell",
+      "John C. Reilly",
+      "Rebecca Hall",
+      "Ralph Fiennes",
+      "Rob Brydon",
+      "Kelly Macdonald",
+      "Lauren Lapkus",
+      "Hugh Laurie"
+    ],
+    "genres": [
+      "Action",
+      "Mystery",
+      "Comedy"
+    ]
+  },
+  {
+    "title": "On the Basis of Sex",
+    "year": 2018,
+    "cast": [
+      "Felicity Jones",
+      "Armie Hammer",
+      "Justin Theroux",
+      "Jack Reynor",
+      "Cailee Spaeny",
+      "Sam Waterston",
+      "Kathy Bates"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  {
+    "title": "Destroyer",
+    "year": 2018,
+    "cast": [
+      "Nicole Kidman",
+      "Tatiana Maslany",
+      "Sebastian Stan",
+      "Toby Kebbell",
+      "Scoot McNairy"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  }
+]
